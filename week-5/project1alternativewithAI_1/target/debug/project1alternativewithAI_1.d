@@ -1,0 +1,1 @@
+C:\Users\andik\Documents\a.etefiaCOS101\week-5\project1alternativewithAI_1\target\debug\project1alternativewithAI_1.exe: C:\Users\andik\Documents\a.etefiaCOS101\week-5\project1alternativewithAI_1\src\main.rs
